@@ -4,21 +4,9 @@ import java.util.Scanner;
 
 public class Main {
 
-   // public static Game.User user=new Game.User();
+
 
     public static void main(String[] args) {
-
-
-
-//        Coffe coffe=new Coffe.Builder()
-//                .withSize('L')
-//                .withSort("Raf")
-//                .withCrepost(15)
-//                .build();
-//        System.out.println(coffe);
-
-
-
 
 
         // Конвертер температуры
